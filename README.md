@@ -7,10 +7,11 @@ Simplification is a small (3.86 KB minified, 6.65 KB unminified) bookmarklet tha
 Simplification is a bookmarklet. Bookmarklets pretend to be a bookmark, but the URL is actually JS.
 
 There are two ways to install:
-### Install the bookmarklet that grabs the file ###
+##### Install the bookmarklet that grabs the file #####
 Create a new bookmark with the name "Simplification" and set the URL parameter to the contents of simplfication_bookmarklet.min.js
 
-### Install the file directly ###
+
+##### Install the file directly #####
 Create a new bookmark with the name "Simplification" and set the URL parameter to the contents of simplfication.min.js
 
 _Little Notey Note: Yes, I know I'm using RawGit, but it's a temporary measure until I can find something else (like github.io, or on my own site once I've finished it :smile:)._
