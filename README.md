@@ -10,6 +10,8 @@ Create a new bookmark with the name "Simplification" and click Edit.
 Change the URL to the contents of simplification_bookmarklet.min.js (it's on your clipboard :) )
 Click Save, and now open the bookmarklet and watch the clutter go _hazzam_ off the page!
 
+_Little Notey Note: Yes, I know I'm using RawGit, but it's a temporary measure until I get fridgefish.com finished and up.
+
 ## Licence
 Simplification is licenced under the Apache Licence 2.0. It's free and open source software! (well, duh, it _is_ on GitHub)
 
