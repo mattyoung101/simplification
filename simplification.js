@@ -25,7 +25,7 @@
 
 // TODO
 // The Grand TODO List
-// 
+
 // 1) Use a RegExp to pick out the names. Some websites have, for example, 'global__navbar' but we are only
 // looking for 'nav', so it doesn't work.
 
@@ -33,8 +33,8 @@
 var distractions = [
 	// Headers
 	'header',
-	'#header', '#main-header', '#header-menu-content', '#header-wrap',
-	'.header', '.main-header', '.header-menu-content', '.header-wrap',
+	'#header', '#main-header', '#header-menu-content', '#header-wrap', '#top-bar',
+	'.header', '.main-header', '.header-menu-content', '.header-wrap', '.top-bar',
 
 	// Categories
 	'#cat', '#categories',
