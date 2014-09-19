@@ -19,7 +19,6 @@ script     = document.createElement('script');
 // Not really required in modern browsers
 script.type = 'text/javascript';
 
-script.src = 'http://localhost/simplification/simplification.min.js';
 //script.src = 'http://raw.githubusercontent.com/fridgefish/simplification/simplification.min.js';
 
 // Add the script to the head tag
