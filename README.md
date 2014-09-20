@@ -9,9 +9,10 @@ Simplification is a bookmarklet. Bookmarklets pretend to be a bookmark, but the 
 There are two ways to install:
 ##### Install the bookmarklet that grabs the file #####
 Create a new bookmark with the name "Simplification" and set the URL parameter to the contents of simplfication_bookmarklet.min.js
+*Note: Simplification is stored on github.io. To get the production safe source code of Simplification, switch to the branch "gh-pages".
 
 
-~~##### Install the file directly #####
+~~Install the file directly
 Create a new bookmark with the name "Simplification" and set the URL parameter to the contents of simplfication.min.js~~
 Turns out this actually doesn't work!
 
