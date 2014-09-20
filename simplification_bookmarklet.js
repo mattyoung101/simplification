@@ -10,16 +10,12 @@
  */
 
 javascript:
-// We used to load jQuery from here.
-// It takes longer for the bookmarklet to execute and seems a bit long to include.
-// Remember: We want to keep the bookmarklet short!
  
-
 script     = document.createElement('script');
 // Not really required in modern browsers
 script.type = 'text/javascript';
 
-script.src = 'https://cdn.rawgit.com/fridgefish/simplification/master/simplification.min.js';
+script.src = 'http://fridgefish.github.io/simplification/simplification.min.js';
 
 // Add the script to the head tag
 document.getElementsByTagName('head')[0].appendChild(script);
