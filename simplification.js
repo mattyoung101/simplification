@@ -33,8 +33,8 @@
 var distractions = [
 	// Headers
 	'header',
-	'#header', '#main-header', '#header-menu-content', '#header-wrap', '#top-bar',
-	'.header', '.main-header', '.header-menu-content', '.header-wrap', '.top-bar',
+	'#header', '#main-header', '#header-menu-content', '#header-wrap', '#top-bar', '#topbar',
+	'.header', '.main-header', '.header-menu-content', '.header-wrap', '.top-bar', '.topbar',
 
 	// Categories
 	'#cat', '#categories',
